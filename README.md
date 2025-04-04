@@ -40,7 +40,7 @@ pip install Pillow
 ```bash
 python main.py
 ```
----
+
 
 ## 🛠️ Cara Menggunakan
 - Saat aplikasi dibuka, akan muncul jendela setup.
@@ -50,7 +50,7 @@ python main.py
 - Klik tombol sesuai nama folder tujuan untuk memindahkan gambar.
 - Gunakan tombol Lewati jika ingin melewati gambar tersebut.
   
----
+
 ## 🖼️ Tampilan Awal
 ![Image](https://github.com/user-attachments/assets/db3f6d0b-5e38-41f0-bfbd-bbc165009d01)
 ## 💡 Tips
