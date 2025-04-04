@@ -25,7 +25,7 @@ Aplikasi desktop berbasis Python + Tkinter untuk **menyortir gambar** dari satu 
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/username/image-sorter-app.git
+git clone https://github.com/Xysaa/img-sorter-py.git
 cd image-sorter-app
 ```
 ### 2. Pastikan Python sudah terinstal
